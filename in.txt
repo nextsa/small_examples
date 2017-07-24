@@ -1,0 +1,11 @@
+10
+Aaaaa 153 15.4
+Bbbbb 78 1.2
+Ccccc 8 7.3
+Ddddd 102 0.3
+Eeeee 0 0.0
+Fffff 42 13.0
+Ggggg 15 31.2
+Hhhhh 56 20.3
+Iiiii 91 27.5
+Ggggg 77 77.7
